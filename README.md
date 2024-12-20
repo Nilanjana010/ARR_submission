@@ -3,7 +3,7 @@ This repo consists of two folders:-
 1) Situation-Driven-Adversarial-Attacks-main:-
     -> The codes to attack the different LLMs: gpt-3.5-turbo-0125, phi-1.5, gpt-4, gemma-7b, 
     -> Meta-Llama-3-8B, and the 4-bit quantized Llama-2 7B chat.
-    -> GPT-4 Judge code that we used in our research.
+    -> [GPT-4 Judge](https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety) code that we used in our research.
     -> llama.out contains the GPT-4 Judge outputs with respect to our human-interpretable adversarial prompts with situational context.
 
 2) mul_adv:-
