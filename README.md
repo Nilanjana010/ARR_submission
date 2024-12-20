@@ -1,8 +1,7 @@
 # ARR_submission
 This repo consists of two folders inside the main folder. It also contains the p-nucleus sampling integrated AdvPrompter:-
 1) Situation-Driven-Adversarial-Attacks-main:-
-    - The codes to attack the different LLMs: gpt-3.5-turbo-0125, phi-1.5, gpt-4, gemma-7b, 
-    - Meta-Llama-3-8B, and the 4-bit quantized Llama-2 7B chat.
+    - The codes to attack the different LLMs: gpt-3.5-turbo-0125, phi-1.5, gpt-4, gemma-7b, Meta-Llama-3-8B, and the 4-bit quantized Llama-2 7B chat.
     - [GPT-4 Judge](https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety) code that we used in our research.
     - llama.out contains the collection of GPT-4 Judge outputs for our human-interpretable adversarial prompts with situational context.
 
